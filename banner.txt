@@ -1,0 +1,5 @@
+<p><img src="{{media url="wysiwyg/home_MKOD/banner.png"}}" alt="banner" width="1920" height="840"></p>
+<div class="banner-main__content">
+<h3>step into summer</h3>
+<p><button class="shop-now-button">shop now</button></p>
+</div>
