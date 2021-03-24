@@ -1,0 +1,21 @@
+<h3>featured products</h3>
+<div class="main-mkod__feature-products">
+<div class="main-mkod__feature-products__item-1"><img src="{{media url="wysiwyg/home_MKOD/fp1.png"}}" alt="#">
+<div class="main-mkod__feature-products__item-1__content">
+<p>summer shades</p>
+<p><a href="#">shop now</a></p>
+</div>
+</div>
+<div class="main-mkod__feature-products__item-2"><img src="{{media url="wysiwyg/home_MKOD/fp2.png"}}" alt="#">
+<div class="main-mkod__feature-products__item-2__content">
+<p>occasion</p>
+<p><a href="#">shop now</a></p>
+</div>
+</div>
+<div class="main-mkod__feature-products__item-3"><img src="{{media url="wysiwyg/home_MKOD/fp3.png"}}" alt="#">
+<div class="main-mkod__feature-products__item-3__content">
+<p>fashion</p>
+<p><a href="#">shop now</a></p>
+</div>
+</div>
+</div>
