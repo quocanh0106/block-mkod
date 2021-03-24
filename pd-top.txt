@@ -1,0 +1,5 @@
+<div class="slide-image">
+<div class="prev-img"><a href="#">previous</a></div>
+<div class="line-divide">&nbsp;</div>
+<div class="next-img"><a href="#">next</a></div>
+</div>
